@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Jenab Bhatia
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -69,9 +69,9 @@ author:
 social-network-links:
   rss: true
   email: "zainab0602@gmail.com"
-  facebook: https://www.facebook.com/zainabtechy
-  github: https://github.com/jenabbhatia
-  linkedin: https://www.linkedin.com/in/bhatiajenab/
+  facebook: zainabtechy
+  github: jenabbhatia
+  linkedin: bhatiajenab
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -88,7 +88,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   google: false
   linkedin: true
