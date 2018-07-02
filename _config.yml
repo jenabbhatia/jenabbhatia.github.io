@@ -17,7 +17,7 @@ baseurl: ""
 title: Jenab's Blog
 
 # Short description of your site
-description: My Website!
+description: Blog of a Research Enthusiast!
 
 # --- Navigation bar options --- #
 
@@ -71,10 +71,10 @@ social-network-links:
   email: "zainab0602@gmail.com"
   facebook: https://www.facebook.com/zainabtechy
   github: https://github.com/jenabbhatia
-  twitter: daattali
+  linkedin: https://www.linkedin.com/in/bhatiajenab/
+#  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-   linkedin: https://www.linkedin.com/in/bhatiajenab/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
