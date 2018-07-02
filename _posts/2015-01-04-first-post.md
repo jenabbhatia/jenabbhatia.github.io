@@ -1,7 +1,12 @@
 ---
+title: Back Again!
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+comments: true
+social-share: true
+show-avatar: true
+image: "/img/hello_world.jpeg"
 ---
 
-This is my first post, how exciting!
+Hello All,
+
+Back Again with new site. Soon i will share new posts
