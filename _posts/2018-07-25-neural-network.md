@@ -24,7 +24,7 @@ Our "theta" parameters are sometimes instead called "weights" in the neural netw
 
 Visually, a simplistic representation looks like:
 
-![Neural_net_rep](/neural_net_representation.png){:class="img-responsive"}
+![Neural_net_rep](/Neural_net_representation.png){:class="img-responsive"}
 Our input nodes (layer 1) go into another node (layer 2), and are output as the hypothesis function.
 
 The first layer is called the "input layer" and the final layer the "output layer," which gives the final value computed on the hypothesis.
