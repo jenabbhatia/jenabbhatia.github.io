@@ -1,5 +1,5 @@
 ---
-title: Get Motivate, reading this books
+title: Get Motivate, read this books
 layout: page
 comments: true
 social-share: true
