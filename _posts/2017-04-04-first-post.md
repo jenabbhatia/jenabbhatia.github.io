@@ -9,4 +9,4 @@ image: "/img/hello_world.jpeg"
 
 Hello All,
 
-Back Again with new site. Soon i will share new posts
+Back Again, hosted site on jekyll from ztechy.com. Hope you all enjoy.
