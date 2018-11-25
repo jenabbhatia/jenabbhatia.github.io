@@ -7,7 +7,7 @@ show-avatar: true
 ---
 
 Hello all,
-     This post is continue of what we saw in earlier post of human face detection. Using a pre-configured docker image that has everything installed.
+     This post is continue of what we saw in earlier post of human face detection. I have used a pre-configured docker image that has everything installed.
 		 
 *docker pull bamos/openface
 docker run -p 9000:9000 -p 8000:8000 -t -i bamos/openface /bin/bash
