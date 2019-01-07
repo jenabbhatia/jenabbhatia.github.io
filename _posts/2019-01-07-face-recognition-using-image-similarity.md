@@ -21,3 +21,5 @@ There are three most common techniques used for image similarity
 
 3. Feature Matcing : Consider one of the most efficient ways to do image search. A number of features are extracted from an image, in a way that gurantees that the same features will be recognized again, even it is rotated/scaled/skewed. The features extracted this way can be matched against other image feature sets. Another image that has a high proportion of the features in the first one is most probably depicting the same object/scene. It can be used to find the relative difference in shooting angle between pics, or the amount of overlapping.
 				Dis-advantage: It may be slow. It is not perfect.
+				
+Try out all the methods and see the difference. Do comment for futher help.
